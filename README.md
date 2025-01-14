@@ -1,2 +1,2 @@
-# alura-datascience
-Formação Data Science com Python da Alura.
+# numpy
+Curso de Numpy na Alura
